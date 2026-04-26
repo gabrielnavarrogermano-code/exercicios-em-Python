@@ -1,4 +1,4 @@
-#esse codigo realiza a leitura e o soretia aleatorio de nomes dos alunos
+#esse codigo realiza a leitura e o sorteia aleatorio de nomes dos alunos
 from random import shuffle
 n1 = input("primeiro aluno: ")
 n2 = input("segundo aluno: ")
